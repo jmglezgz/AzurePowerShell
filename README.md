@@ -20,6 +20,7 @@ Scripts de ejemplo usados en el programa de formación de Microsoft Azure
 6. Opcional: Crear las reglas NAT asociadas a la tarjetas de red virtual
 7. Ejecutar el conjunto de comando para crear la máquina virtual
 8. Visualizar en cada uno de los pasos los resultados que se están generando en el portal de Azure.
+
 ### Referencias y enlaces de interes
 [https://azure.microsoft.com/es-es/documentation/articles/virtual-machines-windows-create-powershell/]
 
