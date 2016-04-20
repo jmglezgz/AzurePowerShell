@@ -54,4 +54,3 @@ Scripts de ejemplo usados en el programa de formación de Microsoft Azure
 [https://github.com/jmglezgz/AzurePowerShell/blob/master/storage%20account.ps1]
 ### Pasos a alto nivel
 ### Referencias y enlaces de interes
-
