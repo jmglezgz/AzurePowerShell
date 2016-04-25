@@ -32,7 +32,7 @@ Scripts de ejemplo usados en el programa de formación de Microsoft Azure
 ##Crear un almacenamiento de Azure con PowerShell ARM.
 
 ### Scripts & y Descargas
-
+[https://github.com/jmglezgz/AzurePowerShell/blob/master/storage%20account%20API%20ARM.ps1]
 ### Pasos a alto nivel
 1. Añadir la suscripción a la sesión de PowerShell
 2. Crear la cuenta de almacenamiento
