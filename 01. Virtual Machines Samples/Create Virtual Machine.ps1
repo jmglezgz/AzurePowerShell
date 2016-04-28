@@ -128,6 +128,9 @@ $skuName="2012-R2-Datacenter"
 
 $vmCred=Get-Credential -Message "Type the name and password of the local administrator account."
 
+#Init object $vm with new azure VM Configuration based on name and size
+$vm=New-AzureRmVMConfig -VMName $vmName -VMSize $vmSize
+
 $vm=Set-AzureRmVMOperatingSystem -VM $vm -Windows -ComputerName $vmName -Credential $vmCred -ProvisionVMAgent -EnableAutoUpdate
 $vm=Set-AzureRmVMSourceImage -VM $vm -PublisherName $pubName -Offer $offerName -Skus $skuName -Version "latest"
 $vm.AvailabilitySetReference = $avName
@@ -147,4 +150,4 @@ $vm=Set-AzureRmVMOSDisk -VM $vm -Name $diskName -VhdUri $osDiskUri -CreateOption
 # Create Virtual Machine
 #
 
-New-AzureRmVM -ResourceGroupName $rgName -Location $locName -VM $vm -
+New-AzureRmVM -ResourceGroupName $rgName -Location $locName -VM $vm
