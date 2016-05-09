@@ -1,5 +1,0 @@
-D:\Cloud\OneDrive\dev\projects\WordCountMapper\WordCountMapper\bin\Debug\WordCountMapper.exe.config
-D:\Cloud\OneDrive\dev\projects\WordCountMapper\WordCountMapper\bin\Debug\WordCountMapper.exe
-D:\Cloud\OneDrive\dev\projects\WordCountMapper\WordCountMapper\bin\Debug\WordCountMapper.pdb
-D:\Cloud\OneDrive\dev\projects\WordCountMapper\WordCountMapper\obj\Debug\WordCountMapper.exe
-D:\Cloud\OneDrive\dev\projects\WordCountMapper\WordCountMapper\obj\Debug\WordCountMapper.pdb

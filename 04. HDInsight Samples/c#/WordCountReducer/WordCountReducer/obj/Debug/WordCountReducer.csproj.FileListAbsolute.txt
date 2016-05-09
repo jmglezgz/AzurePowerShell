@@ -1,6 +1,0 @@
-D:\Cloud\OneDrive\dev\projects\WordCountReducer\WordCountReducer\bin\Debug\WordCountReducer.exe.config
-D:\Cloud\OneDrive\dev\projects\WordCountReducer\WordCountReducer\bin\Debug\WordCountReducer.exe
-D:\Cloud\OneDrive\dev\projects\WordCountReducer\WordCountReducer\bin\Debug\WordCountReducer.pdb
-D:\Cloud\OneDrive\dev\projects\WordCountReducer\WordCountReducer\obj\Debug\WordCountReducer.csprojResolveAssemblyReference.cache
-D:\Cloud\OneDrive\dev\projects\WordCountReducer\WordCountReducer\obj\Debug\WordCountReducer.exe
-D:\Cloud\OneDrive\dev\projects\WordCountReducer\WordCountReducer\obj\Debug\WordCountReducer.pdb
