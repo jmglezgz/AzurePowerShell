@@ -13,8 +13,8 @@ https://azure.microsoft.com/en-us/documentation/articles/powershell-install-conf
 ########################################################################
 
 #Specify the values
-$clusterName = "HDInsightCluster01"
-$subId = "c197246d-d7ed-4643-b93b-b74e30851221"
+$clusterName = "{PUT YOUR HDINSIGHT CLUSTER NAME}"
+$subId = "{PUT YOUR SUBSCRIPTION ID}"
 
 #Login to your azure subscription
 $sub = Get-AzureRmSubscription -ErrorAction SilentlyContinue

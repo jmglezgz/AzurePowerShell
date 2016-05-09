@@ -1,0 +1,40 @@
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\BigDataReducer.exe.config
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\obj\Debug\BigDataReducer.csprojResolveAssemblyReference.cache
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\MRLib\Microsoft.Hadoop.Client.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\MRLib\Microsoft.Hadoop.CombineDriver.exe
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\MRLib\Microsoft.Hadoop.MapDriver.exe
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\MRLib\Microsoft.Hadoop.MapReduce.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\MRLib\Microsoft.Hadoop.ReduceDriver.exe
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\MRLib\Microsoft.WindowsAzure.Management.Framework.Threading.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\MRLib\MRRunner.exe
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\BigDataReducer.exe
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\BigDataReducer.pdb
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\Microsoft.Hadoop.Client.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\Microsoft.Hadoop.MapReduce.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\Microsoft.Hadoop.WebClient.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\Microsoft.WindowsAzure.Management.Framework.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\Newtonsoft.Json.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\Microsoft.WindowsAzure.Management.Framework.Threading.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\bin\Debug\Newtonsoft.Json.xml
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\obj\Debug\BigDataReducer.exe
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataReducer\BigDataReducer\obj\Debug\BigDataReducer.pdb
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\BigDataReducer.exe.config
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\obj\Debug\BigDataReducer.exe
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\obj\Debug\BigDataReducer.pdb
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\MRLib\Microsoft.Hadoop.Client.dll
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\MRLib\Microsoft.Hadoop.CombineDriver.exe
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\MRLib\Microsoft.Hadoop.MapDriver.exe
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\MRLib\Microsoft.Hadoop.MapReduce.dll
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\MRLib\Microsoft.Hadoop.ReduceDriver.exe
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\MRLib\Microsoft.WindowsAzure.Management.Framework.Threading.dll
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\MRLib\MRRunner.exe
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\BigDataReducer.exe
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\BigDataReducer.pdb
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\Microsoft.Hadoop.Client.dll
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\Microsoft.Hadoop.MapReduce.dll
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\Microsoft.Hadoop.WebClient.dll
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\Microsoft.WindowsAzure.Management.Framework.dll
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\Newtonsoft.Json.dll
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\Microsoft.WindowsAzure.Management.Framework.Threading.dll
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\bin\Debug\Newtonsoft.Json.xml
+D:\Cloud\OneDrive\dev\projects\BigDataReducer\BigDataReducer\obj\Debug\BigDataReducer.csprojResolveAssemblyReference.cache

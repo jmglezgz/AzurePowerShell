@@ -12,8 +12,8 @@ https://azure.microsoft.com/en-us/documentation/articles/powershell-install-conf
 ########################################################################
 # Setting up Subscription, HDInsight Cluster and Storage Account
 #########################################################################Specify the values
-$clusterName = "mscloudbigdatacluster"
-$subId = "3f8ecd43-01db-483e-930e-812fd2e1e8eb"
+$clusterName = "{PUT YOUR HDINSIGHT CLUSTER NAME}"
+$subId = "{PUT YOUR SUBSCRIPTION ID}"
 #Login to your azure subscription
 $sub = Get-AzureRmSubscription -ErrorAction SilentlyContinue
 if (-not ($sub))

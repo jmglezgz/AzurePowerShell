@@ -1,0 +1,40 @@
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\BigDataMapper.exe.config
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\MRLib\Microsoft.Hadoop.Client.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\MRLib\Microsoft.Hadoop.CombineDriver.exe
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\MRLib\Microsoft.Hadoop.MapDriver.exe
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\MRLib\Microsoft.Hadoop.MapReduce.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\MRLib\Microsoft.Hadoop.ReduceDriver.exe
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\MRLib\Microsoft.WindowsAzure.Management.Framework.Threading.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\MRLib\MRRunner.exe
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\BigDataMapper.exe
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\BigDataMapper.pdb
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\Microsoft.Hadoop.Client.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\Microsoft.Hadoop.MapReduce.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\Microsoft.Hadoop.WebClient.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\Microsoft.WindowsAzure.Management.Framework.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\Newtonsoft.Json.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\Microsoft.WindowsAzure.Management.Framework.Threading.dll
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\bin\Debug\Newtonsoft.Json.xml
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\obj\Debug\BigDataMapper.csprojResolveAssemblyReference.cache
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\obj\Debug\BigDataMapper.exe
+D:\Cloud\OneDrive\jmglezgz\4.I+D+i\Productos\Azure Data Platform\Formacion\Getting Started with MS Big Data\demos\BigDataMapper\BigDataMapper\obj\Debug\BigDataMapper.pdb
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\BigDataMapper.exe.config
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\obj\Debug\BigDataMapper.exe
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\obj\Debug\BigDataMapper.pdb
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\obj\Debug\BigDataMapper.csprojResolveAssemblyReference.cache
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\MRLib\Microsoft.Hadoop.Client.dll
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\MRLib\Microsoft.Hadoop.CombineDriver.exe
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\MRLib\Microsoft.Hadoop.MapDriver.exe
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\MRLib\Microsoft.Hadoop.MapReduce.dll
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\MRLib\Microsoft.Hadoop.ReduceDriver.exe
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\MRLib\Microsoft.WindowsAzure.Management.Framework.Threading.dll
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\MRLib\MRRunner.exe
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\BigDataMapper.exe
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\BigDataMapper.pdb
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\Microsoft.Hadoop.Client.dll
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\Microsoft.Hadoop.MapReduce.dll
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\Microsoft.Hadoop.WebClient.dll
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\Microsoft.WindowsAzure.Management.Framework.dll
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\Newtonsoft.Json.dll
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\Microsoft.WindowsAzure.Management.Framework.Threading.dll
+D:\Cloud\OneDrive\dev\projects\BigDataMapper\BigDataMapper\bin\Debug\Newtonsoft.Json.xml
